@@ -2,7 +2,7 @@
 title: About
 description: Information about project
 published: true
-date: 2026-02-02T12:37:57.151Z
+date: 2026-02-02T17:06:14.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-01T21:33:52.070Z
@@ -50,5 +50,5 @@ Our dictionary serves as:
 
 Project was developing by researchers in AI. 
 
-**Для сотрудничества:** waited
-**GitHub репозиторий:** waited
+**For cooperation:** waited
+**GitHub repository:** github.com/Amoreemorte/sgamga-wiki
