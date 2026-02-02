@@ -2,7 +2,7 @@
 title: О проекте
 description: Информация о проекте СГАМГА-ВИКИ
 published: true
-date: 2026-02-02T11:58:35.126Z
+date: 2026-02-02T17:05:24.272Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-01T22:08:24.654Z
@@ -47,4 +47,4 @@ dateCreated: 2026-02-01T22:08:24.654Z
 Проект разрабатывается исследователями в области *ИИ*.
 
 Для сотрудничества: ожидается
-GitHub репозиторий: ожидается
+GitHub репозиторий: github.com/Amoreemorte/sgamga-wiki
