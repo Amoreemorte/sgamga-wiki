@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/home</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/en/home</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/dictionary</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/en/dictionary</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/dictionary/сгамга</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/dictionary/буэ</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/dictionary/гинтурал</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/ru/dictionary/межъязыковое_понятие</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/en/dictionary/inter-language_concept</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/en/dictionary/sgamga</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sgamga-wiki.up.railway.app/en/dictionary/gintoural</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
