@@ -2,7 +2,7 @@
 title: About
 description: Information about project
 published: true
-date: 2026-02-02T17:06:14.995Z
+date: 2026-02-03T13:03:09.721Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-01T21:33:52.070Z
@@ -44,7 +44,10 @@ Our dictionary serves as:
 4. **The project does not violate intellectual property rights**
 
 ## 📊 Project structure
-/e/en/home - page with main information about project
+[/e/en/home](/en/home) - page with main information about project
+
+[/e/en/dictionary](/en/dictionary/) - porential word forms group by alphabet
+
 /e/en/dictionary/word - where *word* is replaced with the syntactic unit of interest. It have a page with definiton of syntactic units, examples of using etc. 
 ## 👥 Contacts
 
