@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /a/dashboard
+Sitemap: https://sgamga-wiki.up.railway.app/sitemap.xml
