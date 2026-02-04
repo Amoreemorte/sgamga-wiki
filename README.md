@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2026-02-04T09:43:35.097Z
+tags: 
+editor: markdown
+dateCreated: 2026-02-03T17:34:24.509Z
+---
+
 # SGAMGA-WIKI Linguistic AI Experiment
   This experiment exploring how LLMs index and search "potential word forms"
   
@@ -8,8 +18,8 @@
 3. **Will these words persist** in the model's long-term memory?
 
 # Tech stack
-**Frontend**: Wiki.js 2.5 (Node.js)
-**Backend**: Wiki.js + PostgreSQL
+**Frontend**: Wiki.js 2.5.311 (Node.js 24.12.0)
+**Backend**: Wiki.js + PostgreSQL 17.7
 **Hosting**: Railway.app
 **Monitoring**: Google Search Console, Yandex.Webmaster
 **Version Control**: Git
@@ -17,7 +27,7 @@
 # Results: 
 **First part**: Alice AI index a word without using Google Search Console, Yandex.Webmaster; 
 Google and LLMs partly index it or only can find in the Internet 
-after site verification with <meta> tags.
+after site verification with **<**meta**>** tags.
 *More detailed at*: https://habr.com/ru/sandbox/271542/
 
 # Structure
@@ -45,7 +55,7 @@ This page include definition of this word, linguistic characteristics, examples 
 ```
 3. Add your words/use pages from this repository
 4. In the Wiki.js go to Administration/Theme/Head HTML injection
-add tags 
+and add tags 
 ``` HTML
 <meta name="google-site-verification" content="YOUR_GOOGLE_KEY" />
 <meta name="yandex-verification" content="YOUR_YANDEX_KEY" />
